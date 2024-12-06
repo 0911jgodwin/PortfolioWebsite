@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Unity",
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "title": "Unreal",
+    "imageSrc": "skills/unreal.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cplusplus.png"
+  },
+  {
+    "title": "LUA",
+    "imageSrc": "skills/lua.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Unity Developer",
+    "organisation": "Skills City",
+    "startDate": "Jun, 2024",
+    "endDate": "Sept 2024",
+    "experiences": ["Building interactive games", "Team-based client work"],
+    "imageSrc": "history/skillscity.png"
+  },
+  {
+    "role": "C# Developer",
+    "organisation": "Sparta Global",
+    "startDate": "Aug, 2022",
+    "endDate": "May, 2023",
+    "experiences": ["Agile Development", "Microsoft Dynamics customisation"],
+    "imageSrc": "history/sparta.png"
+  },
+  {
+    "role": "PHP Developer",
+    "organisation": "The Student Room Group",
+    "startDate": "Sept, 2018",
+    "endDate": "Aug, 2019",
+    "experiences": [
+      "Built automated tests",
+      "Developed widgets for the site",
+      "Working in Scrum"
+    ],
+    "imageSrc": "history/tsr.png"
+  }
+]

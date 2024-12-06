@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Aura",
+    "imageSrc": "projects/aura.png",
+    "description": "An Unreal project delving into the Gameplay Ability System.",
+    "skills": ["Unreal", "C++", "Blueprints"],
+    "demo": "",
+    "source": "https://github.com/0911jgodwin/GAS_Aura"
+  },
+  {
+    "title": "MythicRPG",
+    "imageSrc": "projects/mythic.png",
+    "description": "A Unity project focused on building a versatile skill system.",
+    "skills": ["Unity", "C#", "ScriptableObjects"],
+    "demo": "https://jgodwin96.itch.io/mythicrpg",
+    "source": "https://github.com/0911jgodwin/MythicRPG"
+  },
+  {
+    "title": "Auras",
+    "imageSrc": "projects/auras.png",
+    "description": "A LUA project to offer advanced UI customisation options.",
+    "skills": ["LUA", "UI", "LOTROPlugins"],
+    "demo": "",
+    "source": "https://github.com/0911jgodwin/LOTROClassAuras"
+  }
+]
