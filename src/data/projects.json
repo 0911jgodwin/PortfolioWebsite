@@ -1,11 +1,21 @@
 [
   {
+    "title": "TimeHopper",
+    "imageSrc": "projects/TimeHopper.png",
+    "description": "A Unity project built for the GDG games jam",
+    "skills": ["Unity", "C#", "Puzzle"],
+    "demo": "https://thebillygodfrey.itch.io/time-hopper",
+    "source": "https://github.com/0911jgodwin/LearnGDGJam",
+    "longdescription": "Time Hopper was a project I worked on in a team of 3. This was our submission to the Game Dev Group Games Jam, we had one week to create a game following the theme of 'Into the Future'. Our idea was fairly simple, you would play as a brain in a jar who could travel between two separate timelines; the past and the future. Each timeline had different interactable objects and/or obstacles, your goal was to navigate these obstacles and escape the room you found yourself in. \n\nI was responsible for the majority of the programming and game logic in this project and I had a great time figuring out how to implement the various mechanics. The time travel mechanism ended up being quite simple, each level has two separate rooms that are aligned vertically, when you travel through time you're actually just moving the player up and down on the y-axis. Originally this felt a bit jarring to just instantly teleport the player so I ended up building a quick hourglass animation to signify the transition between timelines which made the whole process feel a lot smoother."
+  },
+  {
     "title": "Aura",
     "imageSrc": "projects/aura.png",
     "description": "An Unreal project delving into the Gameplay Ability System.",
     "skills": ["Unreal", "C++", "Blueprints"],
     "demo": "",
-    "source": "https://github.com/0911jgodwin/GAS_Aura"
+    "source": "https://github.com/0911jgodwin/GAS_Aura",
+    "longdescription": "Aura is a top-down style ARPG game system complete with stats, abilities, spells, and attributes. The game is modeled after typical MOBA/ARPG gameplay elements and lets you wield various spells and abilities to take on goblins, ghouls and other beasts. Current features include: Click-to-move, attribute menu displaying all primary and derived stats, a spell-casting system that hooks into the UI to display spell cooldowns, 5 enemy types with a mix of ranged and melee opponents, and fully functional multiplayer allowing several different players to inhabit the same world at the same time. \n\nThis project is my biggest foray into working in Unreal and it's been really interesting dealing with stuff like the Gameplay Ability System (GAS). I appreciate the flexibility of the system and how it can be used to create a wide range of abilities, from general projectile spells to channeled casts, or even setting up mobility options like a short range teleporting blink."
   },
   {
     "title": "MythicRPG",
@@ -13,7 +23,8 @@
     "description": "A Unity project focused on building a versatile skill system.",
     "skills": ["Unity", "C#", "ScriptableObjects"],
     "demo": "https://jgodwin96.itch.io/mythicrpg",
-    "source": "https://github.com/0911jgodwin/MythicRPG"
+    "source": "https://github.com/0911jgodwin/MythicRPG",
+    "longdescription": "Mythic RPG was something I did as part of my masters course in games programming. As someone who has always loved MMO style gameplay I wanted to try build a versatile system within Unity that would allow me to rapidly prototype tab-target spells and attacks that I could then playtest to my hearts content. In order to do this I focused on working with ScriptableObjects. \n\nWith ScriptableObjects I could easily create new abilities within the editor itself, rather than having to hardcode each and every single ability. Making a new ability here is simple, you create a new ScriptableObject, you set the cast type (instant cast, channeled, induction), you set the targeting type (self-targeted, selected-target, AoE variations of both), and you then can insert whatever effects you want applied. Effects themselves also work off of ScriptableObjects and present a lot of options ranging from simply applying damage/healing, applying debuffs, or even allowing you to swap out certain skills for other skills, essentially allowing for a kind of combo system. This was one of my more complicated projects and I'm really proud of how it turned out."
   },
   {
     "title": "Auras",
@@ -21,6 +32,7 @@
     "description": "A LUA project to offer advanced UI customisation options.",
     "skills": ["LUA", "UI", "LOTROPlugins"],
     "demo": "",
-    "source": "https://github.com/0911jgodwin/LOTROClassAuras"
+    "source": "https://github.com/0911jgodwin/LOTROClassAuras",
+    "longdescription": "LOTRO Auras is a LUA plugin I created for Lord of the Rings Online. Originally it was meant to be a purely personal project, I disliked how the game displayed a lot of critical information and I wanted to streamline the UI display to suit my own personal tastes. After showing off a few screenshots of the plugin online I started getting a lot of messages from other players asking me to share the plugin. This seemed like a cool learning opportunity so I decided to take the time to overhaul the plugin and build out a detailed menu system that would allow people to customise the various features to their hearts content. \n\nI'm really happy with the general response Auras has gotten. It's received over 38,000 downloads and people have generally been very thankful for the work I put towards making sure the plugin is intuitive and customisable."
   }
 ]
