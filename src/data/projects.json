@@ -34,5 +34,14 @@
     "demo": "",
     "source": "https://github.com/0911jgodwin/LOTROClassAuras",
     "longdescription": "LOTRO Auras is a LUA plugin I created for Lord of the Rings Online. Originally it was meant to be a purely personal project, I disliked how the game displayed a lot of critical information and I wanted to streamline the UI display to suit my own personal tastes. After showing off a few screenshots of the plugin online I started getting a lot of messages from other players asking me to share the plugin. This seemed like a cool learning opportunity so I decided to take the time to overhaul the plugin and build out a detailed menu system that would allow people to customise the various features to their hearts content. \n\nI'm really happy with the general response Auras has gotten. It's received over 38,000 downloads and people have generally been very thankful for the work I put towards making sure the plugin is intuitive and customisable."
+  },
+  {
+    "title": "JumpWizard 101",
+    "imageSrc": "projects/JumpWizard.png",
+    "description": "A Unity project offering a short 2d platformer experience.",
+    "skills": ["Unity", "C#", "Games Jam"],
+    "demo": "https://jgodwin96.itch.io/jump-wizard-101",
+    "source": "https://github.com/0911jgodwin/LearnGDGJam",
+    "longdescription": "Jump Wizard 101 was created as part of the Game Dev Group Games Jam on the theme of 'Learn'. As a team of four we worked together to produce a short tutorial-esque level for a platforming game. I was the lead programmer on this project and took responsibility for setting up the character/enemies, environment, and general gameplay features like respawns and hazardous objects. Going into this project I had very limited experience doing 2d platformer gameplay and so I found it really interesting delving into the kind of features that are expected in this genre. From fine-tuning jump mechanics, to defining wall-slides, and having the player move smoothly with moving platforms, it was all a cool learning experience. \n\nThis was also my first time working on such a tight deadline, we made it halfway through the jam before admitting that our gameplay just wasn't fun. In response to this I quickly knocked out a basic projectile combat system and a relatively simple boss with varying attack patterns. Those two additions really helped bring the project together and secured us second place overall within the jam!"
   }
 ]
