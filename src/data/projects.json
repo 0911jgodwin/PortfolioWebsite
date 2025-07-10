@@ -5,7 +5,7 @@
     "description": "A Unity project built for the GDG games jam",
     "skills": ["Unity", "C#", "Puzzle"],
     "demo": "https://thebillygodfrey.itch.io/time-hopper",
-    "source": "https://github.com/0911jgodwin/LearnGDGJam",
+    "source": "https://github.com/0911jgodwin/GDG5",
     "longdescription": "Time Hopper was a project I worked on in a team of 3. This was our submission to the Game Dev Group Games Jam, we had one week to create a game following the theme of 'Into the Future'. Our idea was fairly simple, you would play as a brain in a jar who could travel between two separate timelines; the past and the future. Each timeline had different interactable objects and/or obstacles, your goal was to navigate these obstacles and escape the room you found yourself in. \n\nI was responsible for the majority of the programming and game logic in this project and I had a great time figuring out how to implement the various mechanics. The time travel mechanism ended up being quite simple, each level has two separate rooms that are aligned vertically, when you travel through time you're actually just moving the player up and down on the y-axis. Originally this felt a bit jarring to just instantly teleport the player so I ended up building a quick hourglass animation to signify the transition between timelines which made the whole process feel a lot smoother."
   },
   {
