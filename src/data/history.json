@@ -1,5 +1,17 @@
 [
   {
+    "role": "Associate Tools QA",
+    "organisation": "Playground Games",
+    "startDate": "Nov, 2025",
+    "endDate": "Current",
+    "experiences": [
+      "Creating test cases",
+      "Smoke testing new builds",
+      "Regression testing"
+    ],
+    "imageSrc": "history/pg.png"
+  },
+  {
     "role": "Unity Developer",
     "organisation": "Skills City",
     "startDate": "Jun, 2024",
